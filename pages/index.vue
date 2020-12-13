@@ -369,6 +369,17 @@
     <div class="footer text-center">
       <p>Martin Andráši | 2020</p>
     </div>
+
+    <div id="fb-root"></div>
+
+    <div
+      class="fb-customerchat"
+      attribution="setup_tool"
+      page_id="101615038475279"
+      theme_color="#0A7CFF"
+      logged_in_greeting="Dobrý den, mohu Vám pomoci?"
+      logged_out_greeting="Dobrý den, mohu Vám pomoci?"
+    ></div>
   </div>
 </template>
 
