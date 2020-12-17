@@ -1,22 +1,7 @@
 <template>
   <div>
     <div class="cta-section">
-      <div class="menu">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6 d-flex align-items-center">
-              <a href="/" class="menu-anchor">Martin Andráši</a>
-            </div>
-            <div
-              class="col-lg-6 d-lg-flex align-items-center justify-content-end d-none"
-            >
-              <a href="#cenik" class="menu-anchor menu-anchor--mr odkaz"
-                >Ceník</a
-              ><a href="#kontakt" class="button--orange odkaz">Kontakt</a>
-            </div>
-          </div>
-        </div>
-      </div>
+      <Menu />
 
       <div class="container">
         <div class="row">
@@ -365,13 +350,15 @@
         </div>
       </div>
     </section>
-
-    <div class="footer text-center">
-      <p>Martin Andráši | 2020</p>
-    </div>
   </div>
 </template>
 
 <script>
-export default {}
+import Menu from './../layouts/partials/menu'
+
+export default {
+  components: {
+    Menu,
+  },
+}
 </script>
