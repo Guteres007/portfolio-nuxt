@@ -4,11 +4,39 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'personal',
+    title: 'Martin Andráši | Webový vývojář ',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          '✅Tvorba úspěšných webových stránek s moderním designem na míru. ✅',
+      },
+      { mame: 'theme-color', content: '#f65d0a' },
+      { name: 'author', content: 'Martin Andráši' },
+      { property: 'og:title', content: 'Martin Andráši | Webový vývojář' },
+      { property: 'og:url', content: 'https://www.andrasi.cz' },
+      {
+        property: 'og:description',
+        content:
+          'Tvorba úspěšných webových stránek s moderním designem na míru.',
+      },
+      {
+        property: 'og:image',
+        content: 'http://www.andrasi.cz/img/social-reklama-1200x628.png',
+      },
+
+      {
+        property: 'og:image:width',
+        content: '1200',
+      },
+
+      {
+        property: 'og:image:height',
+        content: '630',
+      },
     ],
     link: [
       {
