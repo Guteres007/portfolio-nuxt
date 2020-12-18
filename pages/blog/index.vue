@@ -19,17 +19,19 @@ import { formatDate } from './../../utils/formatDate'
 export default {
   components: { ArticleList },
   layout: 'blog',
-  async asyncData({ $content, params }) {
+  async asyncData({ $content, params, query }) {
     const articles = await $content('articles', params.slug)
       .only(['title', 'description', 'slug', 'img', 'createdAt'])
       .sortBy('createdAt', 'asc')
       .fetch()
 
     return {
+      query,
       params,
       articles,
     }
   },
+
   methods: {
     formatDate,
   },

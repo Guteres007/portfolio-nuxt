@@ -30,11 +30,14 @@
         </li>
       </ul>
     </div>
+    <Pagination />
   </div>
 </template>
 
 <script>
+import Pagination from './Pagination.vue'
 export default {
+  components: { Pagination },
   props: {
     articles: {
       type: Array,
