@@ -14,9 +14,11 @@
           <strong class="blog__post"
             >Vytvořeno: {{ formatDate(article.createdAt) }}</strong
           >
-          <article>
+          <article class="blog-content">
             <nuxt-content :document="article" />
           </article>
+          <hr />
+          <h2>Další články ke čtení</h2>
           <prev-next :prev="prev" :next="next" />
         </div>
       </div>
@@ -31,7 +33,7 @@ export default {
     const article = await $content('articles', params.slug).fetch()
 
     const [prev, next] = await $content('articles')
-      .only(['title', 'slug'])
+      .only(['title', 'slug', 'img', 'alt'])
       .sortBy('createdAt', 'asc')
       .surround(params.slug)
       .fetch()

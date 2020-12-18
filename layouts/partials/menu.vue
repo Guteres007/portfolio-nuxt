@@ -11,8 +11,12 @@
           <NuxtLink to="/blog" class="menu-anchor menu-anchor--mr odkaz">
             Blog
           </NuxtLink>
-          <a href="/#cenik" class="menu-anchor menu-anchor--mr odkaz">Ceník</a
-          ><a href="/#kontakt" class="button--orange odkaz">Kontakt</a>
+          <NuxtLink to="/#cenik" class="menu-anchor menu-anchor--mr odkaz">
+            Ceník
+          </NuxtLink>
+          <NuxtLink to="/#kontakt" class="button--orange odkaz">
+            Kontakt
+          </NuxtLink>
         </div>
       </div>
     </div>
