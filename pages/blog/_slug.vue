@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="container">
+    <div class="container post">
       <div class="row">
-        <div class="col-12">
+        <div class="offset-2 col-8">
           <img
             v-if="article.img.includes('http')"
             class="img-fluid"
@@ -10,8 +10,10 @@
             :alt="article.alt"
           />
           <img v-else :src="'/' + article.img" />
-
-          <p>Post last updated: {{ formatDate(article.updatedAt) }}</p>
+          <h1>{{ article.title }}</h1>
+          <strong class="blog__post"
+            >Vytvořeno: {{ formatDate(article.createdAt) }}</strong
+          >
           <article>
             <nuxt-content :document="article" />
           </article>
@@ -38,3 +40,7 @@ export default {
   },
 }
 </script>
+
+<style lang="scss">
+@import '~/assets/scss/blog.scss';
+</style>
