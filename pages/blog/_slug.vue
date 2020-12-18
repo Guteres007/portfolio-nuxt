@@ -27,6 +27,7 @@
 </template>
 
 <script>
+import { formatDate } from './../../utils/formatDate'
 export default {
   layout: 'blog',
   async asyncData({ $content, params }) {
@@ -46,10 +47,7 @@ export default {
   },
 
   methods: {
-    formatDate(date) {
-      const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('cs', options)
-    },
+    formatDate,
   },
 }
 </script>
