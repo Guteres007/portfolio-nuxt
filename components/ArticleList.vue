@@ -7,7 +7,7 @@
             :to="{ name: 'blog-slug', params: { slug: article.slug } }"
             class="d-flex row blog__item"
           >
-            <div class="col-6">
+            <div class="col-12 col-sm-6">
               <img
                 v-if="article.img.includes('http')"
                 class="img-fluid"
@@ -21,9 +21,11 @@
                 :alt="article.alt"
               />
             </div>
-            <div class="col-6">
+            <div class="col-12 col-sm-6">
               <h2 class="title">{{ article.title }}</h2>
-              <p class="description">{{ article.description }}</p>
+              <p class="description d-none d-lg-block">
+                {{ article.description }}
+              </p>
               <p class="date">{{ formatDate(article.createdAt) }}</p>
             </div>
           </NuxtLink>

@@ -1,10 +1,10 @@
 <template>
-  <div class="row">
+  <div class="row blog__prev-next">
     <div class="col-6">
       <NuxtLink
         v-if="prev"
         :to="{ name: 'blog-slug', params: { slug: prev.slug } }"
-        class="text-primary font-bold hover:underline"
+        class="prev-next__post"
       >
         <div>
           <img
@@ -15,7 +15,9 @@
           />
           <img v-else class="img-fluid" :src="prev.img" :alt="prev.alt" />
         </div>
-        {{ prev.title }}
+        <h3 class="prev-next__title">
+          {{ prev.title }}
+        </h3>
       </NuxtLink>
       <span v-else>&nbsp;</span>
     </div>
@@ -24,7 +26,7 @@
       <NuxtLink
         v-if="next"
         :to="{ name: 'blog-slug', params: { slug: next.slug } }"
-        class="font-bold hover:underline"
+        class="prev-next__post"
       >
         <div>
           <img
@@ -35,8 +37,9 @@
           />
           <img v-else class="img-fluid" :src="next.img" :alt="next.alt" />
         </div>
-
-        {{ next.title }}
+        <h3 class="prev-next__title">
+          {{ next.title }}
+        </h3>
       </NuxtLink>
       <span v-else>&nbsp;</span>
     </div>

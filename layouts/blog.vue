@@ -9,6 +9,8 @@
 import Footer from './partials/footer'
 import Menu from './partials/menu'
 export default {
+  name: 'Blog',
+
   components: {
     Footer,
     Menu,

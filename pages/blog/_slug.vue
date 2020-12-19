@@ -2,7 +2,7 @@
   <div>
     <div class="container post">
       <div class="row">
-        <div class="offset-2 col-8">
+        <div class="col-12 col-xl-8 offset-xl-2">
           <img
             v-if="article.img.includes('http')"
             class="img-fluid"

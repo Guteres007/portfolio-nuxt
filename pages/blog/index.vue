@@ -2,7 +2,7 @@
   <div>
     <div class="container blog">
       <div class="row">
-        <div class="offset-2 col-8">
+        <div class="col-12 col-xl-8 offset-xl-2">
           <h1>Blog</h1>
           <div class="row">
             <Article-list :articles="articles" />

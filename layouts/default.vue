@@ -8,6 +8,8 @@
 <script>
 import Footer from './partials/footer'
 export default {
+  name: 'Default',
+
   components: {
     Footer,
   },
