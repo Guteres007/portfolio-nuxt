@@ -1,7 +1,19 @@
 <template>
   <div>
-    <Article-list :articles="articles" />
-    <Pagination :paging-for-articles="pagingForArticles" :articles="articles" />
+    <div class="container blog">
+      <div class="row">
+        <div class="offset-2 col-8">
+          <h1>Blog</h1>
+          <div class="row">
+            <Article-list :articles="articles" />
+          </div>
+          <Pagination
+            :paging-for-articles="pagingForArticles"
+            :articles="articles"
+          />
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 

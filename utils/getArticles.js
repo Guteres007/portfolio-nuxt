@@ -1,6 +1,6 @@
 export const asyncData = async ({ $content, params }) => {
-  const limit = 1
-  const offset = 1
+  const limit = 10
+  const offset = 10
   const skip = (params.page - 1) * offset
 
   const articles = await $content('articles', params.slug)

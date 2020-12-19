@@ -1,15 +1,30 @@
 <template>
   <div>
-    <nuxt-link
-      v-if="prev !== 0"
-      :to="{ name: 'blog-page-page', params: { page: prev } }"
-      >Page {{ prev }}</nuxt-link
-    >
-    <nuxt-link
-      v-if="next <= pages"
-      :to="{ name: 'blog-page-page', params: { page: next } }"
-      >Page {{ next }}
-    </nuxt-link>
+    <div v-if="pages > 1" class="row">
+      <div class="container pagination">
+        <div class="col-4 offset-4">
+          <div class="row">
+            <div class="col-6 text-center">
+              <nuxt-link
+                v-if="prev !== 0"
+                class="pagination__left"
+                :to="{ name: 'blog-page-page', params: { page: prev } }"
+              >
+                strana {{ prev }}
+              </nuxt-link>
+            </div>
+            <div class="col-6 text-center">
+              <nuxt-link
+                v-if="next <= pages"
+                class="pagination__right"
+                :to="{ name: 'blog-page-page', params: { page: next } }"
+                >strana {{ next }}
+              </nuxt-link>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -27,8 +42,8 @@ export default {
   },
   data() {
     return {
-      offset: 1,
-      limit: 1,
+      offset: 10,
+      limit: 10,
       pages: null,
     }
   },

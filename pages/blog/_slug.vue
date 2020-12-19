@@ -18,7 +18,7 @@
             <nuxt-content :document="article" />
           </article>
           <hr />
-          <h2>Další články ke čtení</h2>
+          <h2>Následující články</h2>
           <prev-next :prev="prev" :next="next" />
         </div>
       </div>
