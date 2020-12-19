@@ -1,26 +1,17 @@
 <template>
   <div>
-    {{ articles }}
-    {{ params.page }}
     <Article-list :articles="articles" />
+    <Pagination :paging-for-articles="pagingForArticles" :articles="articles" />
   </div>
 </template>
 
 <script>
 import ArticleList from '../../../components/ArticleList.vue'
+import { asyncData } from './../../../utils/getArticles'
+import Pagination from './../../../components/Pagination'
 export default {
   layout: 'blog',
-  components: { ArticleList },
-  async asyncData({ $content, params }) {
-    const articles = await $content('articles', params.slug)
-      .only(['title', 'description', 'slug', 'img', 'createdAt'])
-      .sortBy('createdAt', 'asc')
-      .fetch()
-
-    return {
-      params,
-      articles,
-    }
-  },
+  components: { ArticleList, Pagination },
+  asyncData,
 }
 </script>

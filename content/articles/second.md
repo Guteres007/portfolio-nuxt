@@ -1,5 +1,5 @@
 ---
-title: My first Blog Post
+title: My first Blog Post 2
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus elementum sagittis vitae et leo duis.
 img: https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 alt: my first blog post

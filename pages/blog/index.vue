@@ -7,6 +7,10 @@
           <div class="row">
             <Article-list :articles="articles" />
           </div>
+          <Pagination
+            :paging-for-articles="pagingForArticles"
+            :articles="articles"
+          />
         </div>
       </div>
     </div>
@@ -15,22 +19,13 @@
 
 <script>
 import ArticleList from '../../components/ArticleList.vue'
+import Pagination from '../../components/Pagination'
 import { formatDate } from './../../utils/formatDate'
+import { asyncData } from './../../utils/getArticles'
 export default {
-  components: { ArticleList },
+  components: { ArticleList, Pagination },
   layout: 'blog',
-  async asyncData({ $content, params, query }) {
-    const articles = await $content('articles', params.slug)
-      .only(['title', 'description', 'slug', 'img', 'createdAt'])
-      .sortBy('createdAt', 'asc')
-      .fetch()
-
-    return {
-      query,
-      params,
-      articles,
-    }
-  },
+  asyncData,
 
   methods: {
     formatDate,
