@@ -5,6 +5,15 @@ img: https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jp
 alt: my first blog post
 ---
 
+
+ ```javascript
+  
+  function ahoj(){
+    return "OKL";
+  }
+
+```
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus elementum sagittis vitae et leo duis. In dictum non consectetur a erat. Scelerisque fermentum dui faucibus in ornare quam viverra orci. Orci phasellus egestas tellus rutrum tellus pellentesque. Orci nulla pellentesque dignissim enim sit amet. Ac auctor augue mauris augue neque gravida in. Tristique sollicitudin nibh sit amet commodo nulla facilisi. Netus et malesuada fames ac turpis. A scelerisque purus semper eget duis at tellus at. In est ante in nibh mauris cursus mattis molestie a. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Libero nunc consequat interdum varius sit amet mattis.
 
 Phasellus vestibulum lorem sed risus ultricies tristique. Turpis egestas maecenas pharetra convallis posuere morbi leo. Nunc sed augue lacus viverra vitae congue eu consequat ac. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Metus aliquam eleifend mi in nulla. Odio tempor orci dapibus ultrices in. Ipsum a arcu cursus vitae. Amet consectetur adipiscing elit ut aliquam purus. Condimentum vitae sapien pellentesque habitant morbi tristique. Quam elementum pulvinar [https://andrasi.brasty.cz/](https://andrasi.sdadasasdasdad.cz/) etiam non quam lacus suspendisse faucibus interdum. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Integer eget aliquet nibh praesent tristique magna sit. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Mi sit amet mauris commodo quis imperdiet massa. Mauris a diam maecenas sed enim. Rhoncus dolor purus non enim. Interdum velit laoreet id donec ultrices tincidunt arcu non.

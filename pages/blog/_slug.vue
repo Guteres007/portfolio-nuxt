@@ -17,9 +17,11 @@
           <article class="blog-content">
             <nuxt-content :document="article" />
           </article>
-          <hr />
-          <h2>Následující články</h2>
-          <prev-next :prev="prev" :next="next" />
+          <template v-if="prev || next">
+            <hr />
+            <h2>Následující články</h2>
+            <prev-next :prev="prev" :next="next" />
+          </template>
         </div>
       </div>
     </div>
