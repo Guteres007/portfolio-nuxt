@@ -5,8 +5,8 @@ img: img/blog/javascript.jpg
 alt: my first blog post
 ---
 
-Absolutní základ, který by měl každý začátečník znát při psaní proměných.
-Pokud vytvoříme proměnné let, const uvnitř bloku, tj. mezi "{}", tak následně při zavolání mimo tento blok, nám začne javascript vytvářet chyby. To ale neplatí pro var, která je tzv. globální. Je vytažena z bloku ven.
+Základ, který by měl každý začátečník znát při psaní proměných.
+Pokud vytvoříme proměnnou let nebo const uvnitř bloku, tak následně při zavolání proměnné mimo blok, bude javascript vytvořet chybu. To ale neplatí pro var, která je tzv. globální.
 
  ```javascript
   
@@ -25,7 +25,7 @@ console.log(tohleNeniTakeGlobalni) //ReferenceError: tohleNeniTakeGlobalni is no
 ```
 
 
-Je také rozdíl u přiřazování hodnot, kdy const nelze nikdy přepsat novou hodnotou.
+Je také rozdíl u přiřazování hodnot. Const nelze nikdy přepsat novou hodnotou.
 
 
 ```javascript
