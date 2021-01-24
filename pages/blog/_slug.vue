@@ -9,7 +9,7 @@
             :src="article.img"
             :alt="article.alt"
           />
-          <img v-else :src="'/' + article.img" />
+          <img v-else :src="'/' + article.img" class="img-fluid" />
           <h1>{{ article.title }}</h1>
           <strong class="blog__post"
             >Vytvořeno: {{ formatDate(article.createdAt) }}</strong
