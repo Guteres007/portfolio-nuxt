@@ -6,7 +6,7 @@ alt: my first blog post
 ---
 
 Základ, který by měl každý začátečník znát při psaní proměných.
-Pokud vytvoříme proměnnou let nebo const uvnitř bloku, tak následně při zavolání proměnné mimo blok, bude javascript vytvořet chybu. To ale neplatí pro var, která je tzv. globální.
+Pokud vytvoříme proměnnou let nebo const uvnitř bloku, tak následně při zavolání proměnné mimo blok, bude javascript vytvářet chybu. To ale neplatí pro var, která je tzv. globální.
 
  ```javascript
   
