@@ -13,7 +13,7 @@
             :src="prev.img"
             :alt="prev.alt"
           />
-          <img v-else class="img-fluid" :src="prev.img" :alt="prev.alt" />
+          <img v-else class="img-fluid" :src="'/' + prev.img" :alt="prev.alt" />
         </div>
         <h3 class="prev-next__title">
           {{ prev.title }}
@@ -21,7 +21,6 @@
       </NuxtLink>
       <span v-else>&nbsp;</span>
     </div>
-
     <div class="col-6">
       <NuxtLink
         v-if="next"
@@ -35,7 +34,7 @@
             :src="next.img"
             :alt="next.alt"
           />
-          <img v-else class="img-fluid" :src="next.img" :alt="next.alt" />
+          <img v-else class="img-fluid" :src="'/' + next.img" :alt="next.alt" />
         </div>
         <h3 class="prev-next__title">
           {{ next.title }}
