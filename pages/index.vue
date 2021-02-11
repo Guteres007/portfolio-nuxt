@@ -89,9 +89,9 @@
             <div class="card d-flex align-items-center">
               <img src="img/brasty.svg" alt="brasty" />
             </div>
-                  <div class="card d-flex align-items-center">
-                  <img class="leksys" src="img/leksys.svg" alt="leksys">
-                </div>
+            <div class="card d-flex align-items-center">
+              <img class="leksys" src="img/leksys.svg" alt="leksys" />
+            </div>
           </div>
         </div>
       </div>

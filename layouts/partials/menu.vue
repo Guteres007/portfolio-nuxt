@@ -10,7 +10,6 @@
         </div>
         <div
           v-show="menuOpen"
-          v-click-outside="hideMenu"
           class="col-12 col-lg-6 d-lg-flex align-items-center justify-content-end mobile-menu"
         >
           <NuxtLink
