@@ -128,14 +128,14 @@
                     <div class="image">
                       <img src="img/Logo/Technology/node.png" alt="Node.js" />
                     </div>
-                    <b>Node.js - Adonis</b>
+                    <b>Node.js</b>
                   </li>
 
                   <li>
                     <div class="image">
                       <img src="img/Logo/Technology/PHP@1x.svg" alt="PHP" />
                     </div>
-                    <b>PHP</b>Laravel, Symfony
+                    <b>PHP</b>Laravel
                   </li>
 
                   <li class="small">
@@ -146,16 +146,6 @@
                       />
                     </div>
                     <b>Laravel</b>
-                  </li>
-
-                  <li class="small">
-                    <div class="image">
-                      <img
-                        src="img/Logo/Technology/Symfony@1x.svg"
-                        alt="Symfony"
-                      />
-                    </div>
-                    <b>Symfony</b>
                   </li>
 
                   <li>
