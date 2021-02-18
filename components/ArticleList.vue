@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div v-for="article of articles" :key="article.slug" class="col-12">
-      <ul class="list-unstyled">
-        <li>
+    <div class="col-12">
+      <ul v-for="article of articles" :key="article.slug" class="list-unstyled">
+        <li v-if="article.internal === false">
           <NuxtLink
             :to="{ name: 'blog-slug', params: { slug: article.slug } }"
             class="d-flex row blog__item"
@@ -43,7 +43,6 @@ export default {
       default: Array,
     },
   },
-
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }

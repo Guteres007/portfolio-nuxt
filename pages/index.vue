@@ -253,8 +253,9 @@
               <br />
               800 Kč/hodina
             </div>
-
-            <a href="#kontakt" class="button--orange odkaz">Kontaktujte mě</a>
+            <NuxtLink to="/blog/cenik" class="button--orange odkaz"
+              >Ceník služeb</NuxtLink
+            >
           </div>
         </div>
       </div>

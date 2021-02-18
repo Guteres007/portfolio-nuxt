@@ -2,7 +2,8 @@
 title: Rozdíl mezi let, const a var v Javascriptu
 description: Základ, který by měl každý začátečník znát při psaní proměných.
 img: img/blog/javascript.jpg
-alt: my first blog post
+alt: Javascript
+internal: false
 ---
 
 Základ, který by měl každý začátečník znát při psaní proměných.

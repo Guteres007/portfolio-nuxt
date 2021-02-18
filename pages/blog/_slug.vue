@@ -36,7 +36,8 @@ export default {
     const article = await $content('articles', params.slug).fetch()
 
     const [prev, next] = await $content('articles')
-      .only(['title', 'slug', 'img', 'alt'])
+      .only(['title', 'slug', 'img', 'alt', 'internal'])
+      .where({ internal: false })
       .sortBy('createdAt', 'asc')
       .surround(params.slug)
       .fetch()
