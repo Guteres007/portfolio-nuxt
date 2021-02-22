@@ -8,7 +8,7 @@ internal: true
 
 Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky, pro rychlý přehled. Každou nabídku posuzuji individuálně s ohledem na rozpočet. Pokud potřebujete jednostránkový web bez redakce, dokážu se s cenou vejít i do 20 tisíc.  
 
-## KOMERČNÍ ŠABLONA - <strong class="text-orange">od 20 tisíc</strong>
+<h2 class="text-orange">KOMERČNÍ ŠABLONA - <strong class="text-black">od 20 tisíc</strong></h2>
 
 - instalace a nastavení šablony, základní nastavení bezpečnosti, záloh a optimalizace rychlosti
 - 1 až 6 stránek
@@ -16,7 +16,7 @@ Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky,
 - meta tagy pro sociální sítě
 - jednoduchý redakční systém
 
-## ŠABLONA NA MÍRU - <strong class="text-orange">od 35 tisíc</strong>
+<h2 class="text-orange">ŠABLONA NA MÍRU - <strong class="text-black">od 35 tisíc</strong></h2>
 
 - unikátního grafický design
 - 1 až 10 stránek
@@ -26,7 +26,7 @@ Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky,
 - jednoduchý redakční systém
 - seo optimalizace
 
-## ESHOP, PORTÁL, BLOG A JINÉ - <strong class="text-orange">od 40 tisíc</strong>
+<h2 class="text-orange">ESHOP, PORTÁL, BLOG A JINÉ - <strong class="text-black">od 40 tisíc</strong></h2>
 
 - unikátního grafický design
 - naprogramování šablony
@@ -39,10 +39,10 @@ Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky,
 - platební brány
 - mnoho dalšího podle potřeby
 
-## KÓDOVÁNÍ NEWSLETTERŮ BASIC - <strong class="text-orange">od 2 tisíc</strong>
+<h2 class="text-orange">KÓDOVÁNÍ NEWSLETTERŮ BASIC - <strong class="text-black">od 2 tisíc</strong></h2>
 - nakódováni a optimalizace šablony pro nejpouživanejší email klienty (outlook, seznam, gmail)
    
-## KÓDOVÁNÍ NEWSLETTERŮ EXPERT - <strong class="text-orange">od 5 tisíc</strong>
+<h2 class="text-orange">KÓDOVÁNÍ NEWSLETTERŮ EXPERT - <strong class="text-black">od 5 tisíc</strong></h2>
 - nakódováni a optimalizace šablony pro nejpouživanejší email klienty (outlook, seznam, gmail)
 - optimalizace pro další email klienty (yahoo, web.de aj.)
 - responzivní email
