@@ -20,10 +20,12 @@
 <script>
 import ArticleList from '../../../components/ArticleList.vue'
 import { asyncData } from './../../../utils/getArticles'
+import { head } from './../../../utils/metatags'
 import Pagination from './../../../components/Pagination'
 export default {
   layout: 'blog',
   components: { ArticleList, Pagination },
   asyncData,
+  head,
 }
 </script>

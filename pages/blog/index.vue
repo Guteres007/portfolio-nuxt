@@ -20,16 +20,17 @@
 <script>
 import ArticleList from '../../components/ArticleList.vue'
 import Pagination from '../../components/Pagination'
+import { head } from './../../utils/metatags'
 import { formatDate } from './../../utils/formatDate'
 import { asyncData } from './../../utils/getArticles'
 export default {
   components: { ArticleList, Pagination },
   layout: 'blog',
   asyncData,
-
   methods: {
     formatDate,
   },
+  head,
 }
 </script>
 <style lang="scss">

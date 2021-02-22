@@ -12,14 +12,14 @@
           <img v-else :src="'/' + article.img" class="img-fluid" />
           <h1>{{ article.title }}</h1>
           <strong class="blog__post"
-            >Vytvořeno: {{ formatDate(article.createdAt) }}</strong
+            >Publikováno: {{ formatDate(article.createdAt) }}</strong
           >
           <article class="blog-content">
             <nuxt-content :document="article" />
           </article>
           <template v-if="prev || next">
             <hr />
-            <h2>Následující články</h2>
+            <h2>Články, které vás mohou také zajímat</h2>
             <prev-next :prev="prev" :next="next" />
           </template>
         </div>
@@ -34,7 +34,7 @@ export default {
   layout: 'blog',
   async asyncData({ $content, params }) {
     const article = await $content('articles', params.slug).fetch()
-
+    const urlParameters = params
     const [prev, next] = await $content('articles')
       .only(['title', 'slug', 'img', 'alt', 'internal'])
       .where({ internal: false })
@@ -46,11 +46,41 @@ export default {
       article,
       prev,
       next,
+      urlParameters,
     }
   },
 
   methods: {
     formatDate,
+  },
+
+  head() {
+    return {
+      title: 'Martin Andráši | ' + this.article.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.article.description,
+        },
+        {
+          property: 'og:title',
+          content: 'Martin Andráši | ' + this.article.title,
+        },
+        {
+          property: 'og:url',
+          content: 'https://www.andrasi.cz/blog/' + this.urlParameters.slug,
+        },
+        {
+          property: 'og:description',
+          content: this.article.description,
+        },
+        {
+          property: 'og:image',
+          content: 'http://www.andrasi.cz/img/blog/' + this.article.img,
+        },
+      ],
+    }
   },
 }
 </script>

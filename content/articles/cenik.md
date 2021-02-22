@@ -1,12 +1,12 @@
 ---
 title: Ceník
 description: Ceník služeb.
-img: img/blog/cenik-cover.jpg
+img: img/blog/bg15-1.svg
 alt: ceník
 internal: true
 ---
 
-Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky, pro rychlý přehled. Každou nabídku posuzuji individuálně s ohledem na rozpočet. Pokud potřebujete jednostránkový web bez redakce, dokážeme se s cenou vejít i do 20 tisíc.  
+Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky, pro rychlý přehled. Každou nabídku posuzuji individuálně s ohledem na rozpočet. Pokud potřebujete jednostránkový web bez redakce, dokážu se s cenou vejít i do 20 tisíc.  
 
 ## KOMERČNÍ ŠABLONA - <strong class="text-orange">od 20 tisíc</strong>
 

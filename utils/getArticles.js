@@ -8,7 +8,7 @@ export const asyncData = async ({ $content, params }) => {
     .where({ internal: false })
     .limit(limit)
     .skip(skip)
-    .sortBy('createdAt', 'asc')
+    .sortBy('createdAt', 'desc')
     .fetch()
 
   const pagingForArticles = await $content('articles', params.slug)

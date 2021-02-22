@@ -344,10 +344,12 @@
 
 <script>
 import Menu from './../layouts/partials/menu'
+import { head } from './../utils/metatags'
 
 export default {
   components: {
     Menu,
   },
+  head,
 }
 </script>
