@@ -15,7 +15,7 @@ internal: false
 
 ## Prozraďte, co nabízíte
 
-Na prvním dojmu záleží. Právě proto si na sebe k pohovoru bereme to nejlepší oblečení – víme, že úsudek si náš budoucí zaměstnavatel často udělá ještě dříve, než poprvé otevřeme ústa. A firemní weby pracují na identickém principu. Hodně totiž dokáží vypovědět o nabízené kvalitě našich služeb. Internetové stránky s hrubkami, nepřehledným strukturováním a dalšími chybami případné zájemce spíše odradí. A to byste zcela jistě nechtěli.
+Na [prvním dojmu](https://www.kinesisinc.com/the-truth-about-web-design/) záleží. Právě proto si na sebe k pohovoru bereme to nejlepší oblečení – víme, že úsudek si náš budoucí zaměstnavatel často udělá ještě dříve, než poprvé otevřeme ústa. A firemní weby pracují na identickém principu. Hodně totiž dokáží vypovědět o nabízené kvalitě našich služeb. Internetové stránky s hrubkami, nepřehledným strukturováním a dalšími chybami případné zájemce spíše odradí. A to byste zcela jistě nechtěli.
 
 ## Kvalitní web vám dokáže vydělat peníze
 
@@ -29,4 +29,4 @@ Webové stránky pro firmu by proto vždy měl vytvářet profesionál, který v
 
 ## Kolik času na první dojem máte? Opravdové minimum
 
-Ale podívejme se na další číslo: 3-4 vteřiny. Ano, přesně tento čas rozhodne  o tom, zda se u vás nový návštěvník zdrží nebo se vydá hledat pomoc ke konkurenci. Jestliže se během tohoto času nedozví, co nabízíte a jaké výhody máte připraveny právě pro něj, pak jste ho s velkou pravděpodobností definitivně ztratili.
+Ale podívejme se na další číslo: 7 vteřin. Ano, přesně [tento čas](https://www.tributemedia.com/blog/you-have-7-seconds-what-a-visitor-should-know-about-your-website-within-moments) rozhodne o tom, zda se u vás nový návštěvník zdrží nebo se vydá hledat pomoc ke konkurenci. Jestliže se během tohoto času nedozví, co nabízíte a jaké výhody máte připraveny právě pro něj, pak jste ho s velkou pravděpodobností definitivně ztratili.

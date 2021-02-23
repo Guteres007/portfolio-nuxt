@@ -1,5 +1,5 @@
 <template>
-  <div class="row blog__prev-next">
+  <div class="row blog__prev-next mt-4">
     <div class="col-6">
       <NuxtLink
         v-if="prev"

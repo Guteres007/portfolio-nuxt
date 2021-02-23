@@ -43,9 +43,9 @@
         <div class="row">
           <div class="col-lg-3 offset-lg-1">
             <div class="years">
-              <span class="number">4</span>
+              <span class="number">5</span>
               <span class="inline text-center">
-                <small>Roky <br />zkušeností</small>
+                <small>Let <br />zkušeností</small>
               </span>
             </div>
           </div>

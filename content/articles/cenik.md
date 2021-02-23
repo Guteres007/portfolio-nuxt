@@ -6,8 +6,6 @@ alt: ceník
 internal: true
 ---
 
-Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky, pro rychlý přehled. Každou nabídku posuzuji individuálně s ohledem na rozpočet. Pokud potřebujete jednostránkový web bez redakce, dokážu se s cenou vejít i do 20 tisíc.  
-
 <h2 class="text-orange">KOMERČNÍ ŠABLONA - <strong class="text-black">od 20 tisíc</strong></h2>
 
 - instalace a nastavení šablony, základní nastavení bezpečnosti, záloh a optimalizace rychlosti
@@ -40,11 +38,11 @@ Mám několik let zkušeností a proto jsem vytvořil tři základní balíčky,
 - mnoho dalšího podle potřeby
 
 <h2 class="text-orange">KÓDOVÁNÍ NEWSLETTERŮ BASIC - <strong class="text-black">od 2 tisíc</strong></h2>
-- nakódováni a optimalizace šablony pro nejpouživanejší email klienty (outlook, seznam, gmail)
+- nakódováni a optimalizace šablony pro nejpouživanejší emailové klienty (Outlook, Seznam, Gmail)
    
-<h2 class="text-orange">KÓDOVÁNÍ NEWSLETTERŮ EXPERT - <strong class="text-black">od 5 tisíc</strong></h2>
-- nakódováni a optimalizace šablony pro nejpouživanejší email klienty (outlook, seznam, gmail)
-- optimalizace pro další email klienty (yahoo, web.de aj.)
+<h2 class="text-orange">KÓDOVÁNÍ NEWSLETTERŮ PRO MOBILY - <strong class="text-black">od 5 tisíc</strong></h2>
+- nakódováni a optimalizace šablony pro nejpouživanejší emailové klienty (Outlook, Seznam, Gmail)
+- optimalizace pro další email klienty (Yahoo, web.de aj.)
 - responzivní email
 
 
