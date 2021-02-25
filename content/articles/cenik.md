@@ -38,9 +38,11 @@ internal: true
 - mnoho dalšího podle potřeby
 
 <h2 class="text-orange">KÓDOVÁNÍ NEWSLETTERŮ BASIC - <strong class="text-black">od 2 tisíc</strong></h2>
+
 - nakódováni a optimalizace šablony pro nejpouživanejší emailové klienty (Outlook, Seznam, Gmail)
    
 <h2 class="text-orange">KÓDOVÁNÍ NEWSLETTERŮ PRO MOBILY - <strong class="text-black">od 5 tisíc</strong></h2>
+
 - nakódováni a optimalizace šablony pro nejpouživanejší emailové klienty (Outlook, Seznam, Gmail)
 - optimalizace pro další email klienty (Yahoo, web.de aj.)
 - responzivní email
