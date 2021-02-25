@@ -1,18 +1,12 @@
 <template>
   <div>
     <div class="footer text-center">
-      <p>Martin Andráši | {{ getFullYear }}</p>
+      <p>Martin Andráši | IČO: 87241161</p>
     </div>
   </div>
 </template>
 <script>
 export default {
   name: 'Footer',
-  computed: {
-    getFullYear() {
-      const date = new Date()
-      return date.getFullYear()
-    },
-  },
 }
 </script>

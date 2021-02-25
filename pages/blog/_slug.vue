@@ -19,7 +19,7 @@
           </article>
           <template v-if="prev || next">
             <hr />
-            <h2>Články, které vás mohou také zajímat</h2>
+            <h2 class="text-center">Články, které vás mohou také zajímat</h2>
             <prev-next :prev="prev" :next="next" />
           </template>
         </div>

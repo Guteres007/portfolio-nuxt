@@ -1,6 +1,6 @@
 <template>
   <div class="row blog__prev-next mt-4">
-    <div class="col-6">
+    <div class="col-6 col-xl-4 offset-xl-1">
       <NuxtLink
         v-if="prev"
         :to="{ name: 'blog-slug', params: { slug: prev.slug } }"
@@ -21,7 +21,7 @@
       </NuxtLink>
       <span v-else>&nbsp;</span>
     </div>
-    <div class="col-6">
+    <div class="col-6 col-xl-4 offset-xl-2">
       <NuxtLink
         v-if="next"
         :to="{ name: 'blog-slug', params: { slug: next.slug } }"

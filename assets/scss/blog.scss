@@ -172,8 +172,8 @@ h1,h2,h3 {
 }
 .blog__prev-next {
   .prev-next__title {
-    font-size: 30px;
-    margin-top: 10px;
+    font-size: 25px;
+    margin-top: 17px;
     line-height: 1.1;
   }
   .prev-next__post:hover {
@@ -185,7 +185,8 @@ h1,h2,h3 {
 }
 @include media-breakpoint-down(md) {
   .prev-next__post .prev-next__title {
-    font-size: 22px;
+    font-size: 18px;
+    margin-top: 14px;
   }
 }
 
