@@ -108,7 +108,7 @@
               Zkušenosti v technickém vývoji webových řešení mám na obou
               frontách. Dokážu pracovat s nejznámějšími databázemi MySQL nebo
               PostgreSQL. Nejčastěji programuji v programovacím jazyce
-              Javascript v rámci Adonis.js nebo v jazyce PHP, kde používám
+              Javascript v rámci Nuxt.js nebo v jazyce PHP, kde používám
               framework Laravel. Na frontendové straně se nebojím použít i
               JavaScriptové frameworky jako je třeba Vue.js nebo Nuxt.js.
             </p>

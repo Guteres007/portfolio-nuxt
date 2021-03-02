@@ -4,6 +4,7 @@ description: Základ, který by měl každý začátečník znát při psaní pr
 img: img/blog/countdown.jpg
 alt: Javascript
 internal: false
+date: 10. 01. 2021
 ---
 
 Základ, který by měl každý začátečník znát při psaní proměných.

@@ -12,7 +12,8 @@
           <img v-else :src="'/' + article.img" class="img-fluid" />
           <h1>{{ article.title }}</h1>
           <strong class="blog__post"
-            >Publikováno: {{ formatDate(article.createdAt) }}</strong
+            >Publikováno:
+            {{ article.date || formatDate(article.createdAt) }}</strong
           >
           <article class="blog-content">
             <nuxt-content :document="article" />

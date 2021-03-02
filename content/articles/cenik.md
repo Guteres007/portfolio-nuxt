@@ -4,6 +4,7 @@ description: Ceník služeb.
 img: img/blog/bg15-1.svg
 alt: ceník
 internal: true
+date: 11. 03. 2021
 ---
 
 <h2 class="text-orange">KOMERČNÍ ŠABLONA - <strong class="text-black">od 20 tisíc</strong></h2>

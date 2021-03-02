@@ -26,7 +26,9 @@
               <p class="description d-none d-lg-block">
                 {{ article.description }}
               </p>
-              <p class="date">{{ formatDate(article.createdAt) }}</p>
+              <p class="date">
+                {{ article.date || formatDate(article.createdAt) }}
+              </p>
             </div>
           </NuxtLink>
         </li>
