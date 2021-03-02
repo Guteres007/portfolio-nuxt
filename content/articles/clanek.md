@@ -4,7 +4,7 @@ description: Říká se, že kdo dnes není na internetu, jako by nebyl. A pro f
 img: img/blog/notebook-mac.jpg
 alt: webové stránky
 internal: false
-date: 17. 02. 2021
+date: 03. 03. 2021
 ---
 
 
