@@ -78,7 +78,7 @@ export default {
         },
         {
           property: 'og:image',
-          content: 'http://www.andrasi.cz/img/blog/' + this.article.img,
+          content: 'http://www.andrasi.cz/' + this.article.img,
         },
       ],
     }
