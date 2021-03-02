@@ -1,4 +1,5 @@
 ---
+id: 3
 title: Web na míru nebo šablonu?
 description: Potřebujete zviditelnit své podnikání? Nechcete se spoléhat jen na ústní doporučení nebo vyvěšené letáky?
 img: img/blog/pravitko.jpg

@@ -1,4 +1,5 @@
 ---
+id: 2
 title: Proč by i vaše firma měla mít webové stránky
 description: Říká se, že kdo dnes není na internetu, jako by nebyl. A pro firemní podnikání to platí dvojnásob
 img: img/blog/notebook-mac.jpg

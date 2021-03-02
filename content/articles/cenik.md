@@ -1,4 +1,5 @@
 ---
+id: 0
 title: Ceník
 description: Ceník služeb.
 img: img/blog/bg15-1.svg

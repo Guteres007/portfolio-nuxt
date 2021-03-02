@@ -12,11 +12,12 @@ export const asyncData = async ({ $content, params }) => {
       'createdAt',
       'internal',
       'date',
+      'id',
     ])
     .where({ internal: false })
     .limit(limit)
     .skip(skip)
-    .sortBy('createdAt', 'desc')
+    .sortBy('id', 'desc')
     .fetch()
 
   const pagingForArticles = await $content('articles', params.slug)
@@ -28,9 +29,10 @@ export const asyncData = async ({ $content, params }) => {
       'createdAt',
       'internal',
       'date',
+      'id',
     ])
     .where({ internal: false })
-    .sortBy('createdAt', 'asc')
+    .sortBy('id', 'asc')
     .fetch()
 
   return {
