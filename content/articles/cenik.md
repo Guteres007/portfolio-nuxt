@@ -48,8 +48,24 @@ date: 11. 03. 2021
 - optimalizace pro další email klienty (Yahoo, web.de aj.)
 - responzivní email
 
-
-<br>
-<br>
 <br>
 <strong>ceny jsou uvedeny bez DPH</strong>
+<br>
+<br>
+<hr>
+
+## Odbornost doložena certifikací
+
+<br>
+<div class="row">
+  <div class="col-6 col-sm-4 ">
+<div class="text-center mb-30">
+ <img class="img-fluid" src="/img/certifikaty/certifikat-1.jpg" alt="certifikat">
+</div>
+</div>
+<div class="col-6 col-sm-4 offset-sm-1">
+<div class="text-center mb-30">
+ <img class="img-fluid" src="/img/certifikaty/certifikat-2.jpg" alt="certifikat">
+</div>
+</div>
+</div>
