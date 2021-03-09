@@ -3,13 +3,18 @@
     <div class="container post">
       <div class="row">
         <div class="col-12 col-xl-8 offset-xl-2">
-          <img
-            v-if="article.img.includes('http')"
-            class="img-fluid"
-            :src="article.img"
-            :alt="article.alt"
-          />
-          <img v-else :src="'/' + article.img" class="img-fluid" />
+          <template>
+            <div v-if="article.img.length">
+              <img
+                v-if="article.img.includes('http')"
+                class="img-fluid"
+                :src="article.img"
+                :alt="article.alt"
+              />
+              <img v-else :src="'/' + article.img" class="img-fluid" />
+            </div>
+          </template>
+
           <h1>{{ article.title }}</h1>
           <strong class="blog__post"
             >Publikováno:
