@@ -13,6 +13,14 @@
           class="col-12 col-lg-6 d-lg-flex align-items-center justify-content-end mobile-menu"
         >
           <NuxtLink
+            to="/blog/reference"
+            class="menu-anchor menu-anchor--mr odkaz"
+            @click.native="openMenu"
+          >
+            Reference
+          </NuxtLink>
+
+          <NuxtLink
             to="/blog"
             class="menu-anchor menu-anchor--mr odkaz"
             @click.native="openMenu"
