@@ -11,7 +11,7 @@ date: 10. 03. 2021
 V roli vývojáře jsem spolupracoval na těchto projektech.
 <br>
 <div class="row testimonial">
-  <div class="col-6 col-sm-4">
+  <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/blog/notebook-mac.jpg" alt="reference">
       <div class="testimonial__text">
@@ -21,7 +21,7 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
       </div>
     </div>
   </div>
-  <div class="col-6 col-sm-4">
+  <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/blog/notebook-mac.jpg" alt="reference">
       <div class="testimonial__text">
@@ -31,7 +31,7 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
       </div>
     </div>
   </div>
-  <div class="col-6 col-sm-4">
+  <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/blog/notebook-mac.jpg" alt="reference">
       <div class="testimonial__text">
