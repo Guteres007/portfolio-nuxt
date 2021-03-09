@@ -5,7 +5,7 @@ description: Ceník služeb.
 img: ""
 alt: ceník
 internal: true
-date: 10. 03. 2021
+date: ""
 ---
 
 V roli vývojáře jsem spolupracoval na těchto projektech.

@@ -16,7 +16,7 @@
           </template>
 
           <h1>{{ article.title }}</h1>
-          <strong class="blog__post"
+          <strong v-if="article.date.length" class="blog__post"
             >Publikováno:
             {{ article.date || formatDate(article.createdAt) }}</strong
           >
