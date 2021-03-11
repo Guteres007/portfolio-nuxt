@@ -33,6 +33,7 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
       </div>
     </div>
   </div>
+ <!-- 
   <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/reference/brasty.png" alt="reference">
@@ -43,7 +44,7 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
       </div>
     </div>
   </div>
-
+-->
   <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/reference/eufleet.jpg" alt="reference">
