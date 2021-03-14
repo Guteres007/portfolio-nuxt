@@ -5,8 +5,16 @@ description: Ceník služeb.
 img: img/blog/bg15-1.svg
 alt: ceník
 internal: true
-date: 11. 03. 2021
+date: 11. 02. 2021
 ---
+
+<h2 class="text-orange">JEDNODUCHÝ WEB - <strong class="text-black">od 10 tisíc</strong></h2>
+
+- nastavení šablony, základní nastavení bezpečnosti, optimalizace rychlosti
+- 1 až 3 stránek
+- nakódování šablony
+- meta tagy pro sociální sítě
+- bez redakčního systému
 
 <h2 class="text-orange">KOMERČNÍ ŠABLONA - <strong class="text-black">od 20 tisíc</strong></h2>
 
@@ -49,9 +57,6 @@ date: 11. 03. 2021
 - optimalizace pro další email klienty (Yahoo, web.de aj.)
 - responzivní email
 
-<br>
-<strong>ceny jsou uvedeny bez DPH</strong>
-<br>
 <br>
 <hr>
 

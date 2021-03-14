@@ -248,11 +248,7 @@
               postačí jeden.
             </p>
 
-            <div class="price">
-              Cena za projekt nebo
-              <br />
-              800 Kč/hodina
-            </div>
+            <div class="price">od 10 tisíc za web</div>
             <NuxtLink to="/blog/cenik" class="button--orange odkaz"
               >Ceník služeb</NuxtLink
             >
