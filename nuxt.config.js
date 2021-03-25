@@ -28,6 +28,10 @@ export default {
         href:
           'https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap',
       },
+      {
+        rel: 'stylesheet',
+        href: 'https://use.fontawesome.com/releases/v5.7.2/css/all.css',
+      },
     ],
   },
 
