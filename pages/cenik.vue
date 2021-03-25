@@ -8,13 +8,13 @@
               <thead>
                 <tr class="product-tile-row">
                   <th class="product-feature"></th>
-                  <th class="product">Jednoduchý web</th>
-                  <th class="product">Standardní web</th>
+                  <th class="product product--radius">Jednoduchý web</th>
+                  <th class="product product__action">Standardní web</th>
                   <th class="product">Premium web</th>
                 </tr>
                 <tr>
                   <th class="price-info-feature">
-                    <div>Cena</div>
+                    <div>Cena od</div>
                   </th>
                   <th class="price-info1">
                     <div class="price-now">
@@ -23,12 +23,12 @@
                   </th>
                   <th class="price-info2">
                     <div class="price-now">
-                      <span>19 999,-</span>
+                      <span>24 999,-</span>
                     </div>
                   </th>
                   <th class="price-info3">
                     <div class="price-now">
-                      <span>34 999,-</span>
+                      <span>44 999,-</span>
                     </div>
                   </th>
                 </tr>
@@ -36,63 +36,47 @@
               <tbody>
                 <tr>
                   <td></td>
-                  <td colspan="3">Number of Pages</td>
+                  <td colspan="3">Počet stránek</td>
                 </tr>
                 <tr class="compare-row">
-                  <td>Number of Pages</td>
+                  <td>Počet stránek</td>
                   <td>
-                    <span>Up to 5 Pages</span>
+                    <span>1 - 2</span>
                   </td>
                   <td>
-                    <span>Up to 10 Pages</span>
+                    <span>3 - 10</span>
                   </td>
                   <td>
-                    <span>Up to 15 Pages</span>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="3">Web Hosting</td>
-                </tr>
-                <tr>
-                  <td>Web Hosting</td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
+                    <span>10+</span>
                   </td>
                 </tr>
                 <tr>
                   <td></td>
-                  <td colspan="3">Domain Registration</td>
+                  <td colspan="3">Design na míru</td>
+                </tr>
+                <tr>
+                  <td>Design na míru</td>
+                  <td>
+                    <i class="fa fa-times"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-times"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td colspan="3">Programování na míru</td>
                 </tr>
                 <tr class="compare-row">
-                  <td>Domain Registration</td>
+                  <td>Programování na míru</td>
                   <td>
-                    <i class="fa fa-check"></i>
+                    <i class="fa fa-times"></i>
                   </td>
                   <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="4">Mobile Ready</td>
-                </tr>
-                <tr>
-                  <td>Mobile Ready</td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
+                    <i class="fa fa-times"></i>
                   </td>
                   <td>
                     <i class="fa fa-check"></i>
@@ -100,106 +84,10 @@
                 </tr>
                 <tr>
                   <td></td>
-                  <td colspan="3">Social Media Integration</td>
+                  <td colspan="3">Redakční systém</td>
                 </tr>
                 <tr class="compare-row">
-                  <td>Social Media Integration</td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="4">Professional Email Address</td>
-                </tr>
-                <tr>
-                  <td>Professional Email Address</td>
-                  <td>
-                    <span>3 Emails</span>
-                  </td>
-                  <td>
-                    <span>5 Emails</span>
-                  </td>
-                  <td>
-                    <span>Unlimited</span>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="3">Web Analytics</td>
-                </tr>
-                <tr class="compare-row">
-                  <td>Web Analytics</td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="3">Blog Page</td>
-                </tr>
-                <tr>
-                  <td>Blog Page</td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="3">Submission to Google & Bing</td>
-                </tr>
-                <tr class="compare-row">
-                  <td>Submission to Google & Bing</td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="3">Search Engine Optimization</td>
-                </tr>
-                <tr>
-                  <td>Search Engine Optimization</td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                  <td>
-                    <i class="fa fa-check"></i>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="3">eCommerce (Payment Gateway)</td>
-                </tr>
-                <tr class="compare-row">
-                  <td>eCommerce (Payment Gateway)</td>
+                  <td>Redakční systém</td>
                   <td>
                     <i class="fa fa-times"></i>
                   </td>
@@ -212,80 +100,112 @@
                 </tr>
                 <tr>
                   <td></td>
-                  <td colspan="3">Product Listings</td>
+                  <td colspan="3">SEO</td>
                 </tr>
                 <tr>
-                  <td>Product Listings</td>
+                  <td>SEO</td>
                   <td>
-                    <span>N/A</span>
+                    <i class="fa fa-times"></i>
                   </td>
                   <td>
-                    <span>Up to 10</span>
+                    <i class="fa fa-check"></i>
                   </td>
                   <td>
-                    <span>Up to 4,000</span>
+                    <i class="fa fa-check"></i>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td></td>
+                  <td colspan="3">Hosting</td>
+                </tr>
+                <tr>
+                  <td>Hosting</td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-check"></i>
                   </td>
                 </tr>
                 <tr>
                   <td></td>
-                  <td colspan="3">Site Backup & Security</td>
+                  <td colspan="3">Doména</td>
                 </tr>
                 <tr class="compare-row">
-                  <td>Site Backup & Security</td>
+                  <td>Doména</td>
                   <td>
-                    <span>Included w/ Hosting</span>
+                    <i class="fa fa-check"></i>
                   </td>
                   <td>
-                    <span>Included w/ Hosting</span>
+                    <i class="fa fa-check"></i>
                   </td>
                   <td>
-                    <span>Included w/ Hosting</span>
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td colspan="3">Website Training</td>
-                </tr>
-                <tr>
-                  <td>Website Training</td>
-                  <td>
-                    <span>Up to 2 Hrs</span>
-                  </td>
-                  <td>
-                    <span>Up to 2 Hrs</span>
-                  </td>
-                  <td>
-                    <span>Up to 2 Hrs</span>
+                    <i class="fa fa-check"></i>
                   </td>
                 </tr>
                 <tr>
                   <td></td>
+                  <td colspan="3">Responzivní web</td>
+                </tr>
+                <tr>
+                  <td>Responzivní web</td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td colspan="3">Napojení soc. sítě</td>
+                </tr>
+                <tr class="compare-row">
+                  <td>Napojení soc. sítě</td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                  <td>
+                    <i class="fa fa-check"></i>
+                  </td>
+                </tr>
+                <tr>
+                  <td></td>
                 </tr>
                 <tr>
                   <td></td>
                   <td>
-                    <a href="https://zavistar.com/" class="get-started-btn"
-                      >Get Started!!
-                      <span class="hide-mobile"></span>
-                    </a>
+                    <NuxtLink to="/#kontakt" class="get-started-btn"
+                      >Chci toto řešení</NuxtLink
+                    >
                   </td>
                   <td>
-                    <a href="https://zavistar.com/" class="get-started-btn"
-                      >Get Started!!
-                      <span class="hide-mobile"></span>
-                    </a>
+                    <NuxtLink to="/#kontakt" class="get-started-btn"
+                      >Chci toto řešení</NuxtLink
+                    >
                   </td>
                   <td>
-                    <a href="https://zavistar.com/" class="get-started-btn"
-                      >Get Started!!
-                      <span class="hide-mobile"></span>
-                    </a>
+                    <NuxtLink to="/#kontakt" class="get-started-btn"
+                      >Chci toto řešení</NuxtLink
+                    >
                   </td>
                 </tr>
               </tbody>
             </table>
           </div>
         </div>
+
+        <div>Konzultace</div>
       </div>
     </div>
   </div>

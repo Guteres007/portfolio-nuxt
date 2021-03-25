@@ -68,7 +68,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
-    background-color: #ebfcff !important;
+
 }
 
 html {
@@ -112,6 +112,13 @@ html {
   background-color: inherit;
   font-size: 18px;
   color:#000000;
+}
+.product__action {
+  background-color: #024d83;
+  color: #fff;
+}
+.product--radius {
+  border-radius: 8px 0 0 0;
 }
 .price-info-feature {
   padding:50px 0px 50px 0px;
@@ -202,6 +209,7 @@ html {
 }
 .get-started-btn:hover {
   background: rgba(246,93,10,0.8902);
+  color: #fff;
 }
 @media screen and (min-width: 721px) and (max-width: 1000px) {
   .price-now span {
@@ -214,6 +222,11 @@ html {
 @media screen and (max-width: 728px) {
   .price-table{
       max-width: 100%;
+      padding: 0;
+ }
+
+ .comparison-table {
+      table-layout: fixed;
  }
   .product{
       font-size: 16px;
@@ -232,14 +245,18 @@ html {
   .price-table td, .price-table th {
       border: 0px solid #CCC;
       border-top: none;
-      padding: 10px;
+      padding-left: 3px;
+      padding-right: 3px;
+      padding-top: 4px;
+      padding-bottom: 4px;
  }
   .compare-row {
       background-color: #ffffff;
  }
   .get-started-btn {
       background-color: #EC671A;
-      padding: 10px 10px;
-      font-size: 12px;
+      padding: 6px 6px;
+      font-size: 10px;
+      letter-spacing: normal;
  }
 }

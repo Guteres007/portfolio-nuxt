@@ -13,6 +13,17 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
 <br>
 <div class="row testimonial">
 
+ <div class="col-12 col-sm-6 col-lg-4">
+    <div class="testimonial__image mb-30">
+      <img class="img-fluid" src="/img/reference/brasty.png" alt="reference">
+      <div class="testimonial__text">
+        <h2>Brasty.cz</h2>
+        <a class="testimonial__anchor" target="_blank" href="http://www.brasty.cz">brasty.cz</a>
+        <p class="testimonial__description">Kódování, Javascript, Vue.js</p>
+      </div>
+    </div>
+  </div>
+  
   <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/reference/andrasiova.png" alt="reference">
@@ -33,18 +44,8 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
       </div>
     </div>
   </div>
- <!-- 
-  <div class="col-12 col-sm-6 col-lg-4">
-    <div class="testimonial__image mb-30">
-      <img class="img-fluid" src="/img/reference/brasty.png" alt="reference">
-      <div class="testimonial__text">
-        <h2>Brasty.cz</h2>
-        <a class="testimonial__anchor" target="_blank" href="http://www.brasty.cz">brasty.cz</a>
-        <p class="testimonial__description">Kódování, Javascript, Vue.js</p>
-      </div>
-    </div>
-  </div>
--->
+
+
   <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/reference/eufleet.jpg" alt="reference">

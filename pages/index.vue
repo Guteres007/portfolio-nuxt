@@ -249,7 +249,7 @@
             </p>
 
             <div class="price">od 10 tisíc za web</div>
-            <NuxtLink to="/blog/cenik" class="button--orange odkaz"
+            <NuxtLink to="/cenik" class="button--orange odkaz"
               >Ceník služeb</NuxtLink
             >
           </div>

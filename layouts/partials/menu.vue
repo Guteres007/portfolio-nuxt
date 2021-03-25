@@ -28,7 +28,7 @@
             Blog
           </NuxtLink>
           <NuxtLink
-            to="/blog/cenik"
+            to="/cenik"
             class="menu-anchor menu-anchor--mr odkaz"
             @click.native="openMenu"
           >
