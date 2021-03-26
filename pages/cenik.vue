@@ -165,10 +165,10 @@
                 </tr>
                 <tr>
                   <td></td>
-                  <td colspan="3">Napojení soc. sítě</td>
+                  <td colspan="3">Napojení soc. sítí</td>
                 </tr>
                 <tr class="compare-row">
-                  <td>Napojení soc. sítě</td>
+                  <td>Napojení soc. sítí</td>
                   <td>
                     <i class="fa fa-check"></i>
                   </td>
@@ -179,6 +179,24 @@
                     <i class="fa fa-check"></i>
                   </td>
                 </tr>
+
+                <tr>
+                  <td></td>
+                  <td colspan="3">Vhodné pro</td>
+                </tr>
+                <tr class="compare-row">
+                  <td>Vhodné pro</td>
+                  <td>
+                    <span>Osobní web</span>
+                  </td>
+                  <td>
+                    <span>Firemní web</span>
+                  </td>
+                  <td>
+                    <span>Eshop</span>
+                  </td>
+                </tr>
+
                 <tr>
                   <td></td>
                 </tr>
@@ -204,8 +222,6 @@
             </table>
           </div>
         </div>
-
-        <div>Konzultace</div>
       </div>
     </div>
   </div>
