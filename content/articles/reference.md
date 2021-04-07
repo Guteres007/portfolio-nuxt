@@ -37,13 +37,16 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
 
   <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
-      <img class="img-fluid" src="/img/reference/black.png" alt="reference">
+      <img class="img-fluid" src="/img/reference/chladnicek.png" alt="reference">
       <div class="testimonial__text">
-        <h2>Black diamond shine</h2>
-        <p class="testimonial__description">Programování, kódování</p>
+        <h2>Chladníček autodíly</h2>
+        <a class="testimonial__anchor" target="_blank" href="http://eshop.chladnicek.eu">eshop.chladnicek.eu</a>
+        <p class="testimonial__description">Kódování</p>
       </div>
     </div>
   </div>
+
+ 
 
 
   <div class="col-12 col-sm-6 col-lg-4">
@@ -57,28 +60,7 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
     </div>
   </div>
 
-  <div class="col-12 col-sm-6 col-lg-4">
-    <div class="testimonial__image mb-30">
-      <img class="img-fluid" src="/img/reference/lilinka.png" alt="reference">
-      <div class="testimonial__text">
-        <h2>Lilinka.com</h2>
-        <p class="testimonial__description">Programování eshopu</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-12 col-sm-6 col-lg-4">
-    <div class="testimonial__image mb-30">
-      <img class="img-fluid" src="/img/reference/chladnicek.png" alt="reference">
-      <div class="testimonial__text">
-        <h2>Chladníček autodíly</h2>
-        <a class="testimonial__anchor" target="_blank" href="http://eshop.chladnicek.eu">eshop.chladnicek.eu</a>
-        <p class="testimonial__description">Kódování</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-12 col-sm-6 col-lg-4">
+   <div class="col-12 col-sm-6 col-lg-4">
     <div class="testimonial__image mb-30">
       <img class="img-fluid" src="/img/reference/kostelecnh.png" alt="reference">
       <div class="testimonial__text">
@@ -88,5 +70,6 @@ V roli vývojáře jsem spolupracoval na těchto projektech.
       </div>
     </div>
   </div>
+
 
 </div>
