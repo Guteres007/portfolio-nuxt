@@ -27,13 +27,14 @@
           >
             Blog
           </NuxtLink>
-          <NuxtLink
+          <!--    <NuxtLink
             to="/cenik"
             class="menu-anchor menu-anchor--mr odkaz"
             @click.native="openMenu"
           >
             Ceník
           </NuxtLink>
+          -->
           <NuxtLink
             to="/#kontakt"
             class="button--orange odkaz"

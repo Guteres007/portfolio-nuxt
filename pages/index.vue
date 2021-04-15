@@ -86,6 +86,16 @@
             </div>
           </div>
           <div class="col-lg-7 offset-lg-5 d-flex flex-wrap logos">
+            <div
+              class="card d-flex align-items-center"
+              style="max-width: 200px"
+            >
+              <img
+                class="img-fluid"
+                src="img/shoptet/shoptet.jpg"
+                alt="shoptet"
+              />
+            </div>
             <div class="card d-flex align-items-center">
               <img src="img/brasty.svg" alt="brasty" />
             </div>
@@ -248,10 +258,12 @@
               postačí jeden.
             </p>
 
-            <div class="price">od 10 tisíc za web</div>
-            <NuxtLink to="/cenik" class="button--orange odkaz"
-              >Ceník služeb</NuxtLink
-            >
+            <div class="price">
+              Cena za projekt nebo
+              <br />
+              600 Kč / hodina
+            </div>
+            <a href="#kontakt" class="odkaz button--orange">Kontaktujte mě</a>
           </div>
         </div>
       </div>
@@ -330,6 +342,19 @@
                 href="https://www.linkedin.com/in/martinandrasi/"
                 ><img src="img/Logo/Social/LinkedIn@1x.svg" alt="LinkedIn"
               /></a>
+            </div>
+            <div class="d-flex flex-wrap justify-content-center">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://partneri.shoptet.cz/profesionalove/andrasi-martin/ "
+              >
+                <img
+                  class="img-fluid mt-4"
+                  src="img/shoptet/shoptet-partner.png"
+                  alt="shoptet"
+                />
+              </a>
             </div>
           </div>
         </div>
