@@ -8,12 +8,39 @@ internal: true
 date: ""
 ---
 
-Jako webový vývojář jsem pracoval na několika projektech. Většinu času tvořím stránky a komponenty kompletně na míru. Pro tvorbu využívám jazyky PHP a Javascript.
-<br>
-<br>
 <div class="row testimonial">
 
+
 <div class="col-12">
+
+  <div class="words"> 
+    <div class="left">
+      <div class="img-container">
+        <img src="/img/reference/kucera.jpg"/>
+       </div>
+    </div>
+    <div class="right">
+      <p class="name"> Jiří Kučera - <a target="_blank" href="http://www.jihrik.com">jihrik.com</a></p>
+      <p>S Martinem dlouhodobě spolupracuji na několika projektech. Cením si na něm jeho upřímnosti a odhodlání pomoci.</p>
+    </div>
+  </div>
+  <div class="words"> 
+    <div class="left">
+        <div class="img-container">
+          <img src="/img/reference/nefedov.jpg"/>
+       </div>
+    </div>
+    <div class="right">
+      <p class="name"> Egor Nefedov - <a target="_blank" href="https://www.papertime.cz">papertime.cz</a></p>
+      <p>Ještě jednou moc děkuji za Váš čas a pomoc při optimalizaci rychlosti webu.</p>
+    </div>
+  </div>
+
+</div>
+
+
+
+<div class="col-12 mt-5">
   <ul>
     <li><a target="_blank" href="http://www.brasty.cz">brasty.cz</a></li>
     <li><a target="_blank" href="http://www.brasty.at">brasty.at</a></li>
@@ -34,11 +61,5 @@ Jako webový vývojář jsem pracoval na několika projektech. Většinu času t
     <li><a target="_blank" href="https://www.radiorubi.cz">radiorubi.cz</a></li>
   </ul>
 </div>
-
- 
-  
-
-
-
 
 </div>

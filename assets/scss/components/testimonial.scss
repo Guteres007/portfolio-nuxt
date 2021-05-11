@@ -53,3 +53,43 @@
 .testimonial__image:hover  .testimonial__description {
     opacity: 1;
 }
+
+
+.testimonial .words {
+  display: flex;
+  .left {
+    width: 150px;
+  }
+  .right {
+    width: 100%;
+  }
+  .img-container {
+    max-width: 90px;
+    max-height: 90px;
+    min-width: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  img {
+    max-width: 90px;
+    max-height: 90px;
+    min-width: 90px;
+  }
+  p.name {
+    margin-top: 5px;
+  }
+}
+
+@media screen and (min-width: 319px) and (max-width: 600px) {
+  .testimonial .words {
+    flex-wrap: wrap;
+
+    .left {
+      width: 100%;
+    }
+    .right {
+      width: 100%;
+    }
+  }
+
+}
