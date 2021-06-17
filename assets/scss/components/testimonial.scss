@@ -76,11 +76,19 @@
     min-width: 90px;
   }
   p.name {
+    font-weight: 700;
     margin-top: 5px;
   }
 }
 
+.testimonial .ul-two-columns {
+  columns: 3;
+}
+
 @media screen and (min-width: 319px) and (max-width: 600px) {
+  .testimonial .ul-two-columns {
+    columns: auto;
+  }
   .testimonial .words {
     flex-wrap: wrap;
 
