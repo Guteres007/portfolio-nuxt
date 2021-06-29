@@ -18,7 +18,8 @@ date: ""
 
 <div class="col-12 mt-3">
   <ul class="ul-two-columns">
-    <li><a target="_blank" href="http://www.shoply.cz">shoply.cz</a></li>
+    <li><a target="_blank" href="https://www.shoply.cz">shoply.cz</a></li>
+     <li><a target="_blank" href="https://www.spatherapy.cz">spatherapy.cz</a></li>
       <li><a target="_blank" href="http://www.andrasiova.cz">andrasiova.cz</a></li>
     <li><a target="_blank" href="http://eshop.chladnicek.eu">eshop.chladnicek.eu</a></li>
     <li><a target="_blank" href="http://www.eufleet.cz/">eufleet.cz</a></li>
