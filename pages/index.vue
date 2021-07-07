@@ -254,15 +254,12 @@
             <h2>Cena</h2>
             <p class="header">Kolik stojí spolupráce se mnou?</p>
             <p class="subheader">
-              Nabízím vám své zkušenosti ze dvou oborů. Místo dvou odborníků vám
-              postačí jeden.
+              Hledáte ceník a nenacházíte jej? Má to svůj důvod. Web vytvářím na
+              míru vašemu byznysu, aby přivedl co nejvíce zákazníků. Cena je
+              proto individuální podle oboru podnikání a jeho potřeb.
             </p>
 
-            <div class="price">
-              Cena za projekt nebo
-              <br />
-              600 Kč / hodina
-            </div>
+            <!-- <div class="price">Vždy individuální</div> -->
             <a href="#kontakt" class="odkaz button--orange">Kontaktujte mě</a>
           </div>
         </div>
