@@ -27,6 +27,14 @@
           >
             Blog
           </NuxtLink>
+          <NuxtLink
+            to="/video"
+            class="menu-anchor menu-anchor--mr odkaz"
+            @click.native="openMenu"
+          >
+            Videa
+          </NuxtLink>
+
           <!--    <NuxtLink
             to="/cenik"
             class="menu-anchor menu-anchor--mr odkaz"
