@@ -3,7 +3,11 @@
     <div class="container blog">
       <div class="row">
         <div class="col-12 col-xl-8 offset-xl-2">
-          <h1>Videa</h1>
+          <h1>Video</h1>
+          <p>
+            Občas dělám i videa, které si můžete ihned shlédnout a můžete se
+            díky ním vzdělávat.
+          </p>
           <div class="row">
             <div class="col-12 col-md-6 mb-3">
               <div class="iframe-container">

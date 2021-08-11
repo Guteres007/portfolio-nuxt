@@ -28,10 +28,10 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10 offset-lg-1">
-            <h2>Vývojář pro firmy</h2>
+            <h2>Vývojář pro vaši firmu</h2>
             <p>
-              Jsem programátor zaměřený na webové technologie. Pomůžu vaší firmě
-              s technickou realizací webu, e-shopu nebo aplikace.
+              Pomůžu vytvořit vaši firmě kvalitní webovou prezentaci, interní
+              aplikaci nebo e-shop.
             </p>
           </div>
         </div>
@@ -43,7 +43,7 @@
         <div class="row">
           <div class="col-lg-3 offset-lg-1">
             <div class="years">
-              <span class="number">5</span>
+              <span class="number">6</span>
               <span class="inline text-center">
                 <small>Let <br />zkušeností</small>
               </span>
