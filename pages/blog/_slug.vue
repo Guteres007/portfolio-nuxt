@@ -3,6 +3,14 @@
     <div class="container post">
       <div class="row">
         <div class="col-12 col-xl-8 offset-xl-2">
+          <h1>{{ article.title }}</h1>
+          <strong v-if="article.date.length" class="blog__post"
+            >Publikováno:
+            {{ article.date || formatDate(article.createdAt) }}</strong
+          >
+          <article class="blog-content">
+            <nuxt-content :document="article" />
+          </article>
           <template>
             <div v-if="article.img.length">
               <img
@@ -14,15 +22,6 @@
               <img v-else :src="'/' + article.img" class="img-fluid" />
             </div>
           </template>
-
-          <h1>{{ article.title }}</h1>
-          <strong v-if="article.date.length" class="blog__post"
-            >Publikováno:
-            {{ article.date || formatDate(article.createdAt) }}</strong
-          >
-          <article class="blog-content">
-            <nuxt-content :document="article" />
-          </article>
           <template v-if="prev || next">
             <hr />
             <h2 class="text-center">Články, které vás mohou také zajímat</h2>
