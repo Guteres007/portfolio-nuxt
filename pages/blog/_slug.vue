@@ -11,17 +11,7 @@
           <article class="blog-content">
             <nuxt-content :document="article" />
           </article>
-          <template>
-            <div v-if="article.img.length">
-              <img
-                v-if="article.img.includes('http')"
-                class="img-fluid"
-                :src="article.img"
-                :alt="article.alt"
-              />
-              <img v-else :src="'/' + article.img" class="img-fluid" />
-            </div>
-          </template>
+
           <template v-if="prev || next">
             <hr />
             <h2 class="text-center">Články, které vás mohou také zajímat</h2>
