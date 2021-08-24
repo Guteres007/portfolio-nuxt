@@ -9,7 +9,7 @@ date: 24. 08. 2021
 ---
 
 
-Při každém výběru nástroje mám dva požadavky. Musí být jednoduchý a výrazně mi snížit časovou náročnost problému, který opakovaně řeším. Příkladem může být nástroj [Notion](https://www.notion.so/), který je jednoduchý na ovládání a veškeré poznámky, které v něm udělám jsou vždy k dispozici online. Nemusím nic psát k sobě na papír. 
+Při každém výběru nástroje mám dva požadavky. Musí být jednoduchý a výrazně mi snížit časovou náročnost problému, které opakovaně řeším. Příkladem může být nástroj [Notion](https://www.notion.so/), který je jednoduchý na ovládání a veškeré poznámky, které v něm udělám jsou vždy k dispozici online. Nemusím nic psát k sobě na papír. 
 
 
 ## Nástroje pro projektové řízení : [Notion](https://www.notion.so/)
@@ -25,7 +25,7 @@ Pro jednoduchou správu času používám Toggl. V tomto systému lze dokonce ko
 Thunderbird je sázka na jistotu. Dlouhodobě se neplatí poplatky a je spolehlivý. Spike zase sází na algoritmus, který vyhodnocuje, která zpráva je důležitá a která ne. Shift je spíše něco jako obal pro vaše aplikace. Můžete používat gmail, slack, instagram, vše na jednom místě.
 
 
-## Nástroje na grafiku [Canva](https://www.canva.com/)
+## Nástroje na grafiku: [Canva](https://www.canva.com/)
 #### Další varianty: [Affinity Photo](https://affinity.serif.com/en-gb/), [Photoshop](https://www.adobe.com/cz/products/photoshop.html)
 Affinity je vlastně jako Photoshop, jen s tím rozdílem, že neplatíte poplatky měsíčně, ale jen za doživotní licenci. Protože grafiku tolik neovládám, ocením, když jednoduché věci mám už předem připravené, následně upravím texty a použiji, kde zrovna potřebuji. Tento přístup je typický pro Canvu. Využívám ji hlavně pro marketingové účely. Mohu si vybrat z předem nadefinovaných grafických šablon. 
 
