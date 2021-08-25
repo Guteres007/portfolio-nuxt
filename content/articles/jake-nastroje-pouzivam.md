@@ -5,7 +5,7 @@ description: Nástroje musí být jednoduché a užitečné. Chcete vědět, jak
 img: img/blog/ruzovy-computer.jpg
 alt: webové nástroje
 internal: false
-date: 24. 08. 2021
+date: 23. 08. 2021
 ---
 
 
