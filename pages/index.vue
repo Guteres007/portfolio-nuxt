@@ -31,7 +31,7 @@
             <h2>Vývojář pro vaši firmu</h2>
             <p>
               Pomůžu vytvořit vaši firmě kvalitní webovou prezentaci, interní
-              aplikaci nebo e-shop.
+              aplikaci nebo e-shop
             </p>
           </div>
         </div>
@@ -53,7 +53,7 @@
             <p>
               Od malých<br />
               začínajících firem až<br />
-              po ty nadnárodní.
+              po ty nadnárodní
             </p>
           </div>
         </div>
@@ -113,7 +113,7 @@
           <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 info-section">
             <h2>Technologie</h2>
             <p class="header">Zajistím kompletní technické řešení</p>
-            <p class="subheader">Ovládám backendovou i frontendovou část.</p>
+            <p class="subheader">Ovládám backendovou i frontendovou část</p>
             <p class="description">
               Zkušenosti v technickém vývoji webových řešení mám na obou
               frontách. Dokážu pracovat s nejznámějšími databázemi MySQL nebo
@@ -272,8 +272,8 @@
           <div class="col-lg-6 offset-lg-3 text-center">
             <h2>Hodnoty</h2>
             <p class="header">
-              Mám rád spolupráce na zajímavých projektech,<br />co jsou pro mě
-              výzva
+              Mám rád spolupráce na zajímavých projektech,<br />které jsou pro
+              mě výzvou
             </p>
             <div class="row">
               <div class="col-lg-10 offset-lg-1">

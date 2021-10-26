@@ -12,17 +12,17 @@ date: 23. 08. 2021
 Při každém výběru nástroje mám dva požadavky. Musí být jednoduchý a výrazně mi snížit časovou náročnost problému, které opakovaně řeším. Příkladem může být nástroj [Notion](https://www.notion.so/), který je jednoduchý na ovládání a veškeré poznámky, které v něm udělám jsou vždy k dispozici online. Nemusím nic psát k sobě na papír. 
 
 
-## Nástroje pro projektové řízení : [Notion](https://www.notion.so/)
+## Nástroje pro projektové řízení: [Notion](https://www.notion.so/)
 #### Další varianty: [Trello](https://www.trelo.com.com/), [Freelo](https://www.freelo.cz/) 
 Pokud potřebujete efektivně řídit úkoly a máte menší tým vývojářů, tak tyto nástroje jsou pro to ideální. Notion je však z těchto nástrojů trochu rozdílný. Lze v něm jak řídit projekt, tak psát poznámky, vytvářet seznamy, sdílet mezi klienty pomocí odkazu a spoustu dalšího.
 
-## Nástroje pro správu času : [Toggl](https://www.toggl.com) 
+## Nástroje pro správu času: [Toggl](https://www.toggl.com) 
 #### Další varianty: [Rescuetime](https://www.rescuetime.com/), [Desktime](https://desktime.com/)
 Pro jednoduchou správu času používám Toggl. V tomto systému lze dokonce kooperovat s dalšími uživateli. Docela jednoduchý nástroj a velice oblíbený mezi freelancery. Pokud máte firmu a chcete měřit čas všem, musíte mít něco robustnějšího. Desktime je pro tento účel velice dobrá volba. Máte přehled o tom, kdo co používal v pracovní době a jak moc byl v ten den produktivní.
 
 ## Nástroje na emaily: [Thunderbird](https://www.thunderbird.net/cs/) 
 #### Další varianty: [Spike](https://www.spikenow.com/), [Shift](https://tryshift.com/)
-Thunderbird je sázka na jistotu. Dlouhodobě se neplatí poplatky a je spolehlivý. Spike zase sází na algoritmus, který vyhodnocuje, která zpráva je důležitá a která ne. Shift je spíše něco jako obal pro vaše aplikace. Můžete používat gmail, slack, instagram, vše na jednom místě.
+Thunderbird je sázka na jistotu. Dlouhodobě se neplatí poplatky a je spolehlivý. Spike zase sází na algoritmus, který vyhodnocuje, která zpráva je důležitá a která ne. Shift je spíše něco jako obal pro vaše aplikace. Můžete používat Gmail, Slack, Instagram, vše na jednom místě.
 
 
 ## Nástroje na grafiku: [Canva](https://www.canva.com/)
