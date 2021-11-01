@@ -13,6 +13,7 @@ date: ""
 
 <div class="col-12 mt-3">
   <ul class="ul-two-columns">
+   <li><a target="_blank" href="https://www.syruckova.cz/">syruckova.cz</a></li>
         <li><a target="_blank" href="https://www.adriatic-estates.com">adriatic-estates.com</a></li>
      <li><a target="_blank" href="https://www.spatherapy.cz">spatherapy.cz</a></li>
       <li><a target="_blank" href="http://www.andrasiova.cz">andrasiova.cz</a></li>
