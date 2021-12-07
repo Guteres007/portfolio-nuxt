@@ -13,10 +13,12 @@ date: ""
 
 <div class="col-12 mt-3">
   <ul class="ul-two-columns">
-   <li><a target="_blank" href="https://www.syruckova.cz/">syruckova.cz</a></li>
-        <li><a target="_blank" href="https://www.adriatic-estates.com">adriatic-estates.com</a></li>
-     <li><a target="_blank" href="https://www.spatherapy.cz">spatherapy.cz</a></li>
-      <li><a target="_blank" href="http://www.andrasiova.cz">andrasiova.cz</a></li>
+    <li><a target="_blank" href="https://www.bice.cz/">bice.cz</a></li>
+    <li><a target="_blank" href="https://www.realfamily.cz/">realfamily.cz</a></li>
+    <li><a target="_blank" href="https://www.syruckova.cz/">syruckova.cz</a></li>
+    <li><a target="_blank" href="https://www.adriatic-estates.com">adriatic-estates.com</a></li>
+    <li><a target="_blank" href="https://www.spatherapy.cz">spatherapy.cz</a></li>
+    <li><a target="_blank" href="http://www.andrasiova.cz">andrasiova.cz</a></li>
     <li><a target="_blank" href="http://eshop.chladnicek.eu">eshop.chladnicek.eu</a></li>
     <li><a target="_blank" href="http://www.eufleet.cz/">eufleet.cz</a></li>
     <li><a target="_blank" href="http://www.kostelecnh.cz">kostelecnh.cz</a></li>
